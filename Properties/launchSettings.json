@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Decompiler": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\Mark_\\source\\repos\\DBClassGenerator\\bin\\Debug\\net8.0\\DBClassGenerator.dll"
+    }
+  }
+}
